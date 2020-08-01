@@ -2,8 +2,8 @@
 //  View+Extensions.swift
 //  MoviesApp
 //
-//  Created by Mohammad Azam on 6/15/20.
-//  Copyright © 2020 Mohammad Azam. All rights reserved.
+//  Created by Roger Lacson on 6/15/20.
+//  Copyright © 2020 Roger Lacson. All rights reserved.
 //
 
 import Foundation

@@ -3,7 +3,7 @@
 //  MoviesApp
 //
 //  Created by Roger Lacson on 6/16/20.
-//  Copyright © 2020 Mohammad Azam. All rights reserved.
+//  Copyright © 2020 Roger Lacson. All rights reserved.
 //
 
 import Foundation
